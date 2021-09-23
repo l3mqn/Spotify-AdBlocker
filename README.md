@@ -1,9 +1,12 @@
 # Spotify-AdBlocker
 ## << Kullanım >>
-Dosyayı indirin ve dosyanın bulunduğu konuma girin.
+1- Dosyayı indirin
 
-Dosyayı Yönetici olarak çalıştırın ve dosya her şeyi ayarlayacak
+2- Windows+R ile Çalıştırı açın
 
-## Gerekli Yazılımlar ;
+3- %appdata% yazıp giriş yapın
 
-Python 3.7 veya üstü bir sürüm
+4- Spotify adlı klasöre girin ve indirdiğiniz zipteki dosyaları klasöre atın
+
+Kullanmaya başlayabilirsiniz :D
+##Güncellendi##
